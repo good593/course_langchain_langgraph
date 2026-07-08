@@ -1,7 +1,0 @@
-# 개발 패키지
-jupyter==1.1.1 # 주피터 노트북
-python-dotenv==1.1.1 # 환경 변수 관리
-
-# LangGraph 패키지
-langgraph==1.0.1 # Human-in-the-loop interrupt 선택 실습
-
