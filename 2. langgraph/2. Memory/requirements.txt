@@ -28,4 +28,4 @@ aiosqlite==0.21.0                 # 비동기 SQLite 라이브러리 - SQLite를
 # PostgreSQL 관련 패키지
 psycopg[binary]==3.2.3            # PostgreSQL 데이터베이스 연결 라이브러리 (psycopg 버전 3 - langgraph용)
 langgraph-checkpoint-postgres==3.0.0  # LangGraph PostgreSQL 체크포인터 - 대화 상태를 PostgreSQL DB에 저장/복원
-
+setuptools==84.0.0
